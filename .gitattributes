@@ -1,0 +1,18 @@
+# Normalizar los finales de línea
+* text=auto
+
+# Archivos de código
+*.cginc text
+*.cs text diff=csharp
+*.shader text
+
+# Archivos de Unity (Obligar a que se traten como texto para poder fusionarlos)
+*.mat merge=unityyamlmerge eol=lf
+*.anim merge=unityyamlmerge eol=lf
+*.unity merge=unityyamlmerge eol=lf
+*.prefab merge=unityyamlmerge eol=lf
+*.physicsMaterial2D merge=unityyamlmerge eol=lf
+*.physicMaterial merge=unityyamlmerge eol=lf
+*.asset merge=unityyamlmerge eol=lf
+*.meta merge=unityyamlmerge eol=lf
+*.controller merge=unityyamlmerge eol=lf
