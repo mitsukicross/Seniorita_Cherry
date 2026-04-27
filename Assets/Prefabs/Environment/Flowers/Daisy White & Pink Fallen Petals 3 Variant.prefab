@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2086940070767139597
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6147712636147691367, guid: f75ffa8a2c2452a4bae96b0637b48ad1,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.3853
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147712636147691367, guid: f75ffa8a2c2452a4bae96b0637b48ad1,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.3853
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147712636147691367, guid: f75ffa8a2c2452a4bae96b0637b48ad1,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.3853
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147712636147691367, guid: f75ffa8a2c2452a4bae96b0637b48ad1,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 745.8726
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147712636147691367, guid: f75ffa8a2c2452a4bae96b0637b48ad1,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 16.5366
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147712636147691367, guid: f75ffa8a2c2452a4bae96b0637b48ad1,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -253.1336
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147712636147691367, guid: f75ffa8a2c2452a4bae96b0637b48ad1,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147712636147691367, guid: f75ffa8a2c2452a4bae96b0637b48ad1,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147712636147691367, guid: f75ffa8a2c2452a4bae96b0637b48ad1,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147712636147691367, guid: f75ffa8a2c2452a4bae96b0637b48ad1,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147712636147691367, guid: f75ffa8a2c2452a4bae96b0637b48ad1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147712636147691367, guid: f75ffa8a2c2452a4bae96b0637b48ad1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6147712636147691367, guid: f75ffa8a2c2452a4bae96b0637b48ad1,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8114216369538746744, guid: f75ffa8a2c2452a4bae96b0637b48ad1,
+        type: 3}
+      propertyPath: m_Name
+      value: Daisy White & Pink Fallen Petals 3 Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f75ffa8a2c2452a4bae96b0637b48ad1, type: 3}
